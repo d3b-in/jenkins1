@@ -1,5 +1,4 @@
-echo "First Script"
-
-echo "Second Line"
-
-echo "Third Line"
+echo "Build Stage 1"  >> build.log
+echo "Build Stage 2"  >> build.log
+echo "Build Stage 2"  >> build.log
+echo "Build Finished" >> build.log
